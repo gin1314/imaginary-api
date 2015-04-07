@@ -53,4 +53,9 @@ class WelcomeController extends Controller {
 		# code...
 	}
 
+	public function commit5($value='')
+	{
+		# code...
+	}
+
 }
