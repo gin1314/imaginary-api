@@ -33,4 +33,19 @@ class WelcomeController extends Controller {
 		return view('welcome');
 	}
 
+	public function test()
+	{
+		# code...
+	}
+
+	public function commit2()
+	{
+		# code...
+	}
+
+	public function commit3()
+	{
+		# code...
+	}
+
 }
