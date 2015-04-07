@@ -38,4 +38,9 @@ class HomeController extends Controller {
 		return view('home');
 	}
 
+	public function FunctionName($value='')
+	{
+		# code...
+	}	
+
 }
