@@ -38,4 +38,9 @@ class WelcomeController extends Controller {
 		# code...
 	}
 
+	public function commit2()
+	{
+		# code...
+	}
+
 }
